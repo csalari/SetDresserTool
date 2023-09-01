@@ -1,6 +1,5 @@
-<h1>Set Dresser Tool for Unreal Engine Environments</h1>
+<h1> 🪨🌳Set Dresser Tool for Unreal Engine Environments</h1>
 
- ### [Video Demonstration](https://youtu.be/ put the correct URl here
 
 <h2>Description</h2>
 The project consists of a custom tool for Unreal Engine that allows the user to spawn props to quickly populate an environment with random Transform settings.
