@@ -17,7 +17,7 @@ Name of this step:  <br/>
 <img src="https://imgur.com/a/lRSPCIK" height="80%" width="80%" alt="Overview of the blueprint nodes"/>
 </p>
 
-<h2>Detailed walk-through</h2>
+<h2>Walk-through</h2>
 
 <p align="center">
 Name of this step: <br/>
