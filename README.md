@@ -14,7 +14,7 @@ The project consists of a custom tool for Unreal Engine that allows the user to 
 
 <p align="center">
 Name of this step:  <br/>
-<img src="https://i.imgur.com/place the correct URL here.png" height="80%" width="80%" alt="Step 1"/>
+<img src="https://imgur.com/a/lRSPCIK" height="80%" width="80%" alt="Step 1"/>
 </p>
 
 <h2>Detailed walk-through</h2>
