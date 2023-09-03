@@ -14,6 +14,6 @@ The project consists of a custom tool for Unreal Engine that allows the user to 
 
 <p align="center">
 This is a screenshot of the blueprint:  <br/>
-<img src="https://imgur.com/a/lRSPCIK" height="80%" width="80%" alt="Overview of the blueprint nodes"/>
+<img src="https://ibb.co/6FhPPY8" height="80%" width="80%" alt="Overview of the blueprint nodes"/>
 </p>
 
