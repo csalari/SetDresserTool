@@ -17,23 +17,3 @@ This is a screenshot of the blueprint:  <br/>
 <img src="https://imgur.com/a/lRSPCIK" height="80%" width="80%" alt="Overview of the blueprint nodes"/>
 </p>
 
-<h2>Walk-through</h2>
-
-<p align="center">
-Name of this step: <br/>
-<img src="https://i.imgur.com/place the correct URL here.png" height="80%" width="80%" alt="Step 2"/>
-<br />
-<br />
-Name of this step:  <br/>
-<img src="https://i.imgur.com/place the correct URL here.png" height="80%" width="80%" alt="Step 3"/>
-</p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
