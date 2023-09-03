@@ -5,10 +5,7 @@
 The project consists of a custom tool for Unreal Engine that allows the user to spawn props to quickly populate an environment with random Transform settings.
 <br />
 
-
-<h2>Unreal Engine version used</h2>
-
-5.2.1
+[Video Demonstration](https://youtu.be/DB3XEwhsLmo)
 
 <h2>Blueprint structure</h2>
 
